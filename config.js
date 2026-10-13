@@ -1,5 +1,6 @@
 // CUT START
 var disableSetup = true; // Manually set to true to disable setup page menu option
+var disableLdCfg = true;
 var topBarCenterText = "K2PTH Dashboard";
 
 // Grid layout desired
