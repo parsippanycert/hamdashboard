@@ -53,17 +53,17 @@ var aIMG = [
     "https://www.blitzortung.org/en/Images/image_b_ny.png"
   ],
   [
-    "Local Weather",
+    "",
     "iframe|https://api.wo-cloud.com/content/widget/?geoObjectKey=88652288&language=en&region=US&timeFormat=HH:mm&windUnit=mph&systemOfMeasurement=imperial&temperatureUnit=fahrenheit"
   ],
   [
-    "Video Feeds",
+    "",
     "iframe|cam-beverwyckeast.html",
     "iframe|cam-beverwyckwest.html",
     "iframe|cam-rt10-rt53.html"
   ],
   [
-    "HF PROPAGATION",
+    "",
     "https://www.hamqsl.com/solar101vhf.php"
   ],
   [
