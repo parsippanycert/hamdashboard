@@ -50,7 +50,7 @@ var aIMG = [
   ],
   [
     "LIGHTNING LOCAL",
-    "https://map.blitzortung.org/#9.48/40.7874/-74.5034"
+    "https://www.blitzortung.org/en/Images/image_b_ny.png"
   ],
   [
     "",
