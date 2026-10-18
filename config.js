@@ -1,7 +1,7 @@
 // CUT START
 var disableSetup = true; // Manually set to true to disable setup page menu option
 var disableLdCfg = true;
-var topBarCenterText = "K2PTH Dashboard 40.8708N -74.4276W";
+var topBarCenterText = "K2PTH Dashboard";
 
 // Grid layout desired
 var layout_cols = 4;
