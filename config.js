@@ -58,6 +58,7 @@ var aIMG = [
   ],
   [
     "",
+    "iframe|cam-baldwin.html",
     "iframe|cam-beverwyckeast.html",
     "iframe|cam-beverwyckwest.html",
     "iframe|cam-rt10-rt53.html"
