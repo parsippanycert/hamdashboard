@@ -46,7 +46,8 @@ var aIMG = [
   ],
   [
     "LIGHTNING",
-    "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa"
+//    "https://images.lightningmaps.org/blitzortung/america/index.php?animation=usa"
+      "https://images.lightningmaps.org/blitzortung/america/index.php?map=usa"
   ],
   [
     "LIGHTNING LOCAL",
